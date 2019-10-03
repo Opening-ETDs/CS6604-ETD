@@ -68,5 +68,6 @@ for category in generate_sub_cat_list():
         time.sleep(10)
     time.sleep(20)
     
-print(sub_cat_count_dict)
+with open("count_data.json",'w') as f: 
+    f.write(json.dumps(sub_cat_count_dict, indent=2, sort_keys=True))
 
