@@ -1,0 +1,179 @@
+African American studies 0296 
+African studies 0293 
+American studies 0323 
+Asian American studies 0343 
+Asian studies 0342 
+Baltic studies 0361 
+Black studies 0325 
+Canadian studies 0385 
+Caribbean studies 0432 
+Classical studies 0434 
+East European studies 0437 
+Ethnic studies 0631 
+European studies 0440 
+French Canadian culture 0482 
+Gender studies 0733 
+LGBTQ studies 0492 
+Hispanic American studies 0737 
+Holocaust studies 0507 
+Islamic studies 0512 
+Judaic studies 0751 
+Latin American studies 0550 
+Middle Eastern studies 0555 
+Native American studies 0740 
+Near Eastern studies 0559 
+North African studies 0560 
+Pacific Rim studies 0561 
+Regional studies 0604 
+Scandinavian studies 0613 
+Slavic studies 0614 
+South African studies 0654 
+South Asian studies 0638 
+Southeast Asian studies 0225 
+Sub Saharan Africa studies 0639 
+Women's studies 0453
+Accounting 0272 
+Arts management 0424 
+Banking 0770 
+Business administration 0310 
+Entrepreneurship 0429 
+Finance 0508 
+Management 0454 
+Marketing 0338 
+Sports management 0430
+Communication 0459 
+Information science 0723 
+Journalism 0391 
+Library science 0399 
+Mass communication 0708 
+Technical communication 0643 
+Web studies 0646
+Art criticism 0365 
+Art history 0377 
+Cinematography 0435 
+Dance 0378 
+Design 0389 
+Fashion 0200 
+Film studies 0900 
+Fine arts 0357 
+Music 0413 
+Music history 0210 
+Music theory 0223 
+Musical composition 0216 
+Musical performances 0943 
+Performing arts 0641 
+Theater 0465 
+Theater history 0644
+Architecture 0729 
+Architectural engineering 0462 
+Landscape architecture 0390
+Adult education 0516 
+Art education 0273 
+Bilingual education 0282 
+Business education 0688 
+Community college education 0275 
+Continuing education 0651 
+Curriculum development 0727 
+Early childhood education 0518 
+Education 0515 
+Education finance 0277 
+Education history 0520 
+Education policy 0458 
+Educational administration 0514 
+Educational evaluation 0443 
+Educational leadership 0449 
+Educational philosophy 0998 
+Educational psychology 0525 
+Educational sociology 0340 
+Educational technology 0710 
+Educational tests & measurements 0288 
+Elementary education 0524 
+English as a second language 0441 
+Foreign language education 0444 
+Gifted education 0445 
+Health education 0680 
+Higher education 0745 
+Higher education administration 0446 
+Home economics education 0278 
+Industrial arts education 0521 
+Instructional design 0447 
+Language arts 0279 
+Mathematics education 0280 
+Middle school education 0450 
+Multicultural education 0455 
+Music education 0522 
+Pedagogy 0456 
+Performing arts education 0457 
+Physical education 0523 
+Reading instruction 0535 
+Religious education 0527 
+School counseling 0519 
+Science education 0714 
+Secondary education 0533 
+Social sciences education 0534 
+Special education 0529 
+Teacher education 0530 
+Vocational education 0747
+African history 0331 
+American history 0337 
+Ancient history 0579 
+Asian history 0332 
+Black history 0328 
+Canadian history 0334 
+European history 0335 
+History 0578 
+History of Oceania 0504 
+Latin American history 0336 
+Medieval history 0581 
+Middle Eastern history 0333 
+Military history 0722 
+Modern history 0582 
+Russian history 0724 
+Science history 0585 
+African literature 0316 
+American literature 0591 
+Ancient languages 0289 
+Asian literature 0305 
+Australian literature 0356 
+Canadian literature 0352 
+Caribbean literature 0360 
+Classical literature 0294 
+Comparative literature 0295 
+Creative writing 0203 
+English literature 0593 
+French literature 0207 
+French Canadian literature 0355 
+German literature 0311 
+Icelandic & Scandinavian literature 0362 
+Italian studies 0222 
+Language 0679 
+Latin American literature 0312 
+Linguistics 0290 
+Literature 0401 
+Medieval literature 0297 
+Middle Eastern literature 0315 
+Modern language 0291 
+Modern literature 0298 
+Rhetoric 0681 
+Romance literature 0313 
+Slavic literature 0314 
+Translation studies 0215
+World history 0506
+Aesthetics 0650 
+Biblical studies 0321 
+Canon law 0375 
+Clergy 0319 
+Comparative religion 0618 
+Divinity 0376 
+Epistemology 0393 
+Ethics 0394 
+Logic 0395 
+Metaphysics 0396 
+Pastoral counseling 0397 
+Philosophy 0422 
+Philosophy of religion 0322 
+Philosophy of science 0402 
+Religion 0318 
+Religious history 0320 
+Spirituality 0647 
+Theology 0469
