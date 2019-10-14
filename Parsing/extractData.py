@@ -10,8 +10,8 @@ def extract_ch_json(doc_path,out_path, doc_type, doc_id):
     """Return JSON from Grobid TEI
     This function tries to group sections of Grobid-generated TEI as chapters.
     """
-    if doc_type == 'dissertation':
-        return extract_ch_json_dissertation(doc_path, doc_type, doc_id)
+    if doc_type == 'thesis':
+        return extract_ch_json_thesis(doc_path, doc_type, doc_id)
 
     try:
         doc = parse(doc_path)
@@ -67,7 +67,8 @@ if __name__ == '__main__':
 
     docPath = '/Users/bipashabanerjee/Documents/CS/sem3/6604/grobid/dissertation/Williams_MR_D_2011.pdf.xml'
     outPath = '/Users/bipashabanerjee/Documents/CS/sem3/6604/grobid/dissertation/'
-    ch_json = extract_ch_json(docPath,outPath, 'thesis', 17292)
-
+    ch_json = extract_ch_json(docPath,outPath, 'dissertation', 17292)
+    if os.path.exists(outPath+"William_ref.txt"):
+                    os.remove(outPath+"William_ref.txt")
   
         
