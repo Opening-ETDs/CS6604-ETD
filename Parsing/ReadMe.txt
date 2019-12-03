@@ -15,5 +15,5 @@ Steps to generate the training data.
 	- utils.py
 	- optimization.py
 	- evaluation
-	- word embedding found in http://wing.comp.nus.edu.sg/~wing.nus/resources/	 NParsCit/vectors_with_unk.tar.gz
-	- Be sure to have a models and a result folder as the training results for each f	  old are stored accordingly.
+	- word embedding found in http://wing.comp.nus.edu.sg/~wing.nus/resources/NParsCit/vectors_with_unk.tar.gz
+	- Be sure to have a models and a result folder as the training results for each fold is stored accordingly.
