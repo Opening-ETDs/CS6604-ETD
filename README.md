@@ -1,4 +1,4 @@
-# Classification and extraction of information from ETD Documents
+# Classification and extraction of information from ETD documents
 
 Identifying methods to accurately extract information (citation, tables, figures, etc.) from ETDs and to appropriately classify them into the ProQuest subject category classification system.
 
