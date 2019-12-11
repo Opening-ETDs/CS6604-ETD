@@ -16,9 +16,9 @@ In recent years, advances in natural language processing, machine learning, and 
 **Related Projects:**
 
 *   Big Data Text Summarization (Fall 2018): 
-  *   [http://hdl.handle.net/10919/86420](http://hdl.handle.net/10919/86420) 
-  *   [http://hdl.handle.net/10919/86418](http://hdl.handle.net/10919/86418) 
-  *   [http://hdl.handle.net/10919/86406](http://hdl.handle.net/10919/86406)
+    *   [http://hdl.handle.net/10919/86420](http://hdl.handle.net/10919/86420) 
+    *   [http://hdl.handle.net/10919/86418](http://hdl.handle.net/10919/86418) 
+    *   [http://hdl.handle.net/10919/86406](http://hdl.handle.net/10919/86406)
 *   Ashish Baghudana's text summarization project
 *   [Neural-ParsCit](https://github.com/WING-NUS/Neural-ParsCit)
 
